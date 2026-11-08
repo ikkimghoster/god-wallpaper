@@ -1,12 +1,9 @@
 {
   "categories": [
-    {
-      "name": "Krishna",
-      "items": 5
-    },
-	{
-      "name": "Mahadev",
-      "items": 5
-    }
+    {"name": "Madhav", "items": 5},
+    {"name": "Neelkanth", "items": 5},
+    {"name": "Anjaneya", "items": 5},
+    {"name": "Vighnaharta", "items": 5},
+    {"name": "Raghunandan", "items": 5}
   ]
 }
